@@ -18,11 +18,11 @@ Same as the IDE really, put original file and executable under the same director
  
 I set the substitution cipher to be rather easy to crack, currently the cipher is:
 
-**OG:**
+OG:
 
 abcdefghijklmnopqrstuvwxyz
 
-**ENCRYPTED:**
+ENCRYPTED:
 
 qwertyuiopasdfghjklzxcvbnm
 
